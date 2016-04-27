@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccic01hertgoog_0010.png"; bbox 0 0 2640 4372; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 436 1613 1014 1697">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 436 1613 1014 1697">
+     <span class='ocr_line' id='line_1_1' title="bbox 436 1613 1014 1697; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 436 1613 700 1696; x_wconf 87' lang='lat' dir='ltr'>BENNONI</span> <span class='ocrx_word' id='word_1_2' title='bbox 723 1614 971 1697; x_wconf 81' lang='lat' dir='ltr'><strong>ERDMAN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 971 1615 1014 1695; x_wconf 91' lang='lat' dir='ltr'>N</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 369 1905 1071 1965">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 369 1905 1071 1965">
+     <span class='ocr_line' id='line_1_2' title="bbox 369 1905 1071 1965; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 369 1905 624 1964; x_wconf 80' lang='lat' dir='ltr'>AMICITIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 658 1906 718 1964; x_wconf 82' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 752 1905 898 1965; x_wconf 85' lang='lat' dir='ltr'><strong>GRATI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 932 1905 1071 1964; x_wconf 81' lang='lat' dir='ltr'>ANIMI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 505 2191 940 2253">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 505 2191 940 2253">
+     <span class='ocr_line' id='line_1_3' title="bbox 505 2191 940 2253; baseline -0.005 -1"><span class='ocrx_word' id='word_1_8' title='bbox 505 2191 790 2253; x_wconf 79' lang='lat' dir='ltr'>TESTIFICANDI</span> <span class='ocrx_word' id='word_1_9' title='bbox 812 2192 940 2252; x_wconf 70' lang='lat' dir='ltr'>CAUSA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1324 4372">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1324 4372">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1324 4372; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1324 4372; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
